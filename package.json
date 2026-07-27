@@ -59,7 +59,7 @@
   "dependencies": {
     "axe-core": "^4.12.1",
     "commander": "14.0.3",
-    "playwright": "^1.61.1"
+    "playwright": "^1.62.0"
   },
   "devDependencies": {
     "@types/node": "^22.15.30",
